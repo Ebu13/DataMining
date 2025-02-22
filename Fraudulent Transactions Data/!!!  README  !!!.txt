@@ -1,1 +1,0 @@
-https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data  adresinden Fraud.csv i indir
